@@ -12,5 +12,6 @@ console.log(this function inside this codeblock will not work for several reason
 }
 ```
 
-#Screencapture 1
-![alt text](C:\Users\iggia\OneDrive\Documents\GitHub\test)
+# Screencapture 1
+
+![alt text](https://github.com/VantasTheViking/test/blob/main/Capture1.PNG)
