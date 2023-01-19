@@ -2,7 +2,7 @@
 
 Tasks:
 
-- [ ] plant pipebomb in your mailbox
+- [ ] GIMME YOUR MONEH -Sincerely NekoArc
 
 ![alt text](https://cdn.discordapp.com/attachments/587492591004549124/1065426197334466570/maxresdefault.png)
  
